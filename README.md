@@ -1,2 +1,2 @@
 # My Portfolio Website
-https://baquir.xyz
+https://baquir.is-a.dev
