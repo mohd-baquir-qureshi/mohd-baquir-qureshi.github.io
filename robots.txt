@@ -1,0 +1,16 @@
+# Allow all crawlers full access to the site
+User-agent: *
+Allow: /
+
+# Explicit allow for some AI / data crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap to help search engines discover your pages
+Sitemap: https://baquir.is-a.dev/sitemap.xml
