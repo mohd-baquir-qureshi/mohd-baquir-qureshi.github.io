@@ -8,7 +8,7 @@ Use this site to learn what I build, how I work, and the fastest ways to contact
 
 - [Home](https://baquir.is-a.dev/): portfolio overview, services, stack, testimonials, and contact details.
 - [Resume](https://flowcv.com/resume/31min9ufws): full career history and project examples.
-- [WhatsApp](https://api.whatsapp.com/send?phone=91+9009350895&text=Hi+Baquir+I+am): fastest direct contact.
+- [WhatsApp](https://api.whatsapp.com/send?phone=+919009350895&text=Hi+Baquir+I+am): fastest direct contact.
 - [GitHub](https://github.com/mohd-baquir-qureshi): code and repositories.
 - [Stack Overflow](https://stackoverflow.com/users/6764496/mohd-baquir-qureshi): technical profile.
 - [Twitter](https://twitter.com/MdBaquirQureshi): social updates.
@@ -44,7 +44,7 @@ Use this site to learn what I build, how I work, and the fastest ways to contact
 ## Contact
 
 - Email: baquir7860@gmail.com
-- WhatsApp: https://api.whatsapp.com/send?phone=91+9009350895&text=Hi+Baquir+I+am
+- WhatsApp: https://api.whatsapp.com/send?phone=+919009350895&text=Hi+Baquir+I+am
 
 ## Expanded Profile & Technical Architecture
 

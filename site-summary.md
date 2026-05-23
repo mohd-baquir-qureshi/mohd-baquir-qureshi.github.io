@@ -15,7 +15,7 @@ Shopify & Shopline App Developer · Team Lead · Software Engineer based in Indo
 
 ## Contact
 - Email: baquir7860@gmail.com
-- WhatsApp: https://api.whatsapp.com/send?phone=91+9009350895&text=Hi+Baquir+I+am
+- WhatsApp: https://api.whatsapp.com/send?phone=+919009350895&text=Hi+Baquir+I+am
 
 ## Links
 - Resume: https://flowcv.com/resume/31min9ufws
