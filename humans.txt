@@ -1,0 +1,14 @@
+/* TEAM */
+Name: Mohd. Baquir Qureshi
+Role: Shopify & Shopline App Developer · Team Lead · Software Engineer
+Location: Indore, India
+Contact: baquir7860@gmail.com
+WhatsApp: https://api.whatsapp.com/send?phone=919009350895&text=Hi+Baquir+I+am
+
+/* SITE */
+Stand-alone portfolio and lead-capture website
+URL: https://baquir.is-a.dev/
+
+/* TECH */
+Built for fast discovery by humans and AI agents.
+Focus: Shopify, Shopline, Laravel, PHP, Python, OpenAI, ecommerce automation

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mohd. Baquir Qureshi",
+  "jobTitle": "Shopify & Shopline App Developer \u00b7 Team Lead \u00b7 Software Engineer",
+  "url": "https://baquir.is-a.dev",
+  "sameAs": [
+    "https://github.com/mohd-baquir-qureshi",
+    "https://stackoverflow.com/users/6764496/mohd-baquir-qureshi"
+  ],
+  "knowsAbout": [
+    "Shopify",
+    "Laravel",
+    "PHP",
+    "Python",
+    "OpenAI",
+    "GraphQL",
+    "REST APIs"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "updated": "2026-05-23",
+  "resources": [
+    "/llms.txt",
+    "/llms-full.txt",
+    "/agents.txt",
+    "/capabilities.json",
+    "/developer-profile.json",
+    "/site-summary.md"
+  ]
+}

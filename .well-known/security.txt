@@ -1,0 +1,4 @@
+Contact: mailto:baquir7860@gmail.com
+Expires: 2027-05-23T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://baquir.is-a.dev/.well-known/security.txt

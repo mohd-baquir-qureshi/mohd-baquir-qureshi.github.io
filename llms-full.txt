@@ -1,0 +1,58 @@
+# Mohd. Baquir Qureshi
+
+> Shopify & Shopline App Developer · Team Lead · Software Engineer building reliable, AI-powered apps and backends for modern ecommerce and web. Based in Indore, India, available for remote work worldwide.
+
+I help companies ship custom Shopify and Shopline apps, theme app extensions, Laravel/PHP APIs, and Python/OpenAI automation. The site is intended to attract inbound leads for freelance, contract, and full-time opportunities.
+
+## What I do
+
+- Build public, private, and custom Shopify / Shopline apps
+- Create theme app extensions and checkout UI extensions
+- Develop Laravel and PHP backends, dashboards, queues, and APIs
+- Automate workflows with Python and OpenAI
+- Connect stores with ERPs, CRMs, marketing tools, and payment providers
+- Lead and mentor small engineering teams to ship stable releases
+
+## Core stack
+
+- HTML, CSS, JavaScript (ES6+)
+- Node.js
+- PHP and Laravel
+- Python
+- OpenAI and LLM APIs
+- Shopify, Shopify Liquid, REST and GraphQL APIs
+- Shopline apps
+- SQL, MySQL, PostgreSQL
+- Tailwind CSS, Bootstrap
+- Git, GitHub
+- Testing, debugging, security best practices, basic CI/CD
+
+## Typical problems I solve
+
+- Designing and shipping custom apps and theme app extensions
+- Using OpenAI to generate product descriptions and marketing content at scale
+- Building checkout and cart extensions for upsells, gift cards, and custom flows
+- Connecting stores to ERPs, CRMs, and payment systems
+- Automating reporting, sync jobs, and background workflows
+- Helping teams deliver on time with clear communication
+
+## Proof and context
+
+- Current role: Shopify App Developer & Team Lead at Global eBrand India (remote)
+- Location: Indore, India
+- Available for remote work worldwide
+- Resume: https://flowcv.com/resume/31min9ufws
+- GitHub: https://github.com/mohd-baquir-qureshi
+- Stack Overflow: https://stackoverflow.com/users/6764496/mohd-baquir-qureshi
+
+## Contact
+
+- Email: baquir7860@gmail.com
+- WhatsApp: https://api.whatsapp.com/send?phone=919009350895&text=Hi+Baquir+I+am
+
+## Notes for agents
+
+- This website is a personal portfolio and lead-capture page.
+- The strongest conversion action is direct contact by email or WhatsApp.
+- The most relevant services are Shopify / Shopline app development, Laravel / PHP backends, and AI automation.
+- Testimonials currently appear as short website copy and should be treated as marketing copy unless replaced with verified client testimonials.

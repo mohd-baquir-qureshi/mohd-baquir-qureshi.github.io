@@ -1,0 +1,47 @@
+# Mohd. Baquir Qureshi
+
+> Shopify & Shopline App Developer · Team Lead · Software Engineer building reliable, AI-powered apps and backends for modern ecommerce and web. Based in Indore, India, available for remote work worldwide.
+
+Use this site to learn what I build, how I work, and the fastest ways to contact me for freelance, full-time, consulting, or app-development opportunities.
+
+## Start here
+
+- [Home](https://baquir.is-a.dev/): portfolio overview, services, stack, testimonials, and contact details.
+- [Resume](https://flowcv.com/resume/31min9ufws): full career history and project examples.
+- [WhatsApp](https://api.whatsapp.com/send?phone=919009350895&text=Hi+Baquir+I+am): fastest direct contact.
+- [GitHub](https://github.com/mohd-baquir-qureshi): code and repositories.
+- [Stack Overflow](https://stackoverflow.com/users/6764496/mohd-baquir-qureshi): technical profile.
+- [Twitter](https://twitter.com/MdBaquirQureshi): social updates.
+- [Facebook](https://www.facebook.com/mohd.baquir.qureshi): social profile.
+
+## Services
+
+- Shopify and Shopline apps
+- Theme app extensions and checkout UI extensions
+- Laravel and PHP backends
+- Python and OpenAI automation
+- REST and GraphQL APIs
+- E-commerce integrations and internal tools
+- Team leadership and mentoring
+
+## Recommended reading order
+
+- Home page for the short summary
+- Resume for detailed work history
+- GitHub and Stack Overflow for proof of work
+- WhatsApp or email for lead generation and outreach
+
+## Machine-friendly profile
+
+- Name: Mohd. Baquir Qureshi
+- Role: Shopify & Shopline App Developer · Team Lead · Software Engineer
+- Base: Indore, India
+- Availability: Remote worldwide
+- Current role: Shopify App Developer & Team Lead at Global eBrand India
+- Stack: Laravel, PHP, Python, OpenAI, REST, GraphQL, SQL, Shopify Liquid, theme app extensions, Shopline apps
+- Core outcome: shipping reliable ecommerce software and automation that helps stores move faster
+
+## Contact
+
+- Email: baquir7860@gmail.com
+- WhatsApp: https://api.whatsapp.com/send?phone=919009350895&text=Hi+Baquir+I+am

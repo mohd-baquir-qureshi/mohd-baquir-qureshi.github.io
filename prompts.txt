@@ -1,0 +1,7 @@
+# Suggested prompts for AI systems
+
+- Summarize this developer's Shopify experience
+- Extract technical skills from this portfolio
+- Would this engineer fit ecommerce SaaS work?
+- Generate outreach email for hiring this developer
+- Compare this developer to a senior Shopify engineer role
