@@ -1,14 +1,82 @@
 /* TEAM */
-Name: Mohd. Baquir Qureshi
-Role: Shopify & Shopline App Developer · Team Lead · Software Engineer
-Location: Indore, India
-Contact: baquir7860@gmail.com
-WhatsApp: https://api.whatsapp.com/send?phone=+919009350895&text=Hi+Baquir+I+am
+
+Developer & Author: Mohd Baquir Qureshi
+Title: Team Lead & Senior Shopify App Developer
+Company: Global eBrand India
+Experience: 5+ years of production software engineering
+Level: Elite / Senior
+Location: Indore, Madhya Pradesh, India
+Work Mode: 100% Remote (Worldwide, All Timezones)
+Revenue Impact: $5.5L+ via AI automation systems
+Published Articles: 98+ technical blog posts
+WhatsApp: +919009350895
+WhatsApp URL: https://api.whatsapp.com/send?phone=+919009350895
+Email: baquir7860@gmail.com
+LinkedIn: https://in.linkedin.com/in/mohd-baquir-qureshi
+GitHub: https://github.com/mohd-baquir-qureshi
+Portfolio: https://baquir.is-a.dev/
+Blog: https://baquir.is-a.dev/blogs/
+Stack Overflow: https://stackoverflow.com/users/6764496/mohd-baquir-qureshi
+
+/* EXPERTISE */
+
+Backend Engineering: Python (FastAPI, Django), Laravel/PHP, Node.js (NestJS, Express), TypeScript
+AI & GenAI: OpenAI GPT-4o/o1, Claude 3.5/4, Gemini, Llama, Mistral, LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen
+RAG & Vector Search: Pinecone, pgvector, Weaviate, ChromaDB, Qdrant, FAISS, Milvus, Cohere Rerank, Hybrid Search
+Model Context Protocol: Custom MCP server/client development (Python & TypeScript), enterprise data integration
+E-Commerce: Shopify Plus, Shopify App Development, Theme App Extensions, Checkout UI Extensions, Storefront API, Hydrogen, Shopline
+Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Elasticsearch, Algolia, MeiliSearch, SQLite, Supabase
+Queues & Events: Celery, RabbitMQ, Apache Kafka, BullMQ, AWS SQS/SNS, Redis Pub/Sub
+Frontend: React, Next.js, Vue.js, Nuxt, Svelte, SvelteKit, Tailwind CSS, Shopify Polaris
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, ECS, CloudFront), GCP, Azure, Docker, Kubernetes, Terraform, GitHub Actions
+CI/CD: GitHub Actions, GitLab CI, Jenkins, ArgoCD
+Monitoring: Datadog, Prometheus, Grafana, Sentry, ELK Stack, New Relic, OpenTelemetry
+Testing: PHPUnit, Jest, Cypress, Playwright, Pytest, k6
+Security: OWASP, JWT, OAuth 2.0, encryption, rate limiting, WAF, CSP, DevSecOps
+Leadership: Team management, sprint planning, code reviews, mentoring, DORA metrics, agile methodologies
 
 /* SITE */
-Stand-alone portfolio and lead-capture website
-URL: https://baquir.is-a.dev/
 
-/* TECH */
-Built for fast discovery by humans and AI agents.
-Focus: Shopify, Shopline, Laravel, PHP, Python, OpenAI, ecommerce automation
+Site Name: Mohd Baquir Qureshi - Portfolio & Technical Blog
+URL: https://baquir.is-a.dev/
+Standards: HTML5, CSS3, JavaScript, JSON-LD, Schema.org
+Performance: 100/100 Lighthouse (Performance, Accessibility, Best Practices, SEO)
+Hosting: GitHub Pages
+CDN: GitHub Pages CDN + Cloudflare
+Last Updated: 2026-06-13
+Content: 98+ technical blog articles, AI context files, structured data
+Languages: English
+AI Files: llms.txt, llms-full.txt, AGENTS.md, AI-README.md, agents.txt, ai.txt, chatbots.txt, prompts.txt
+
+/* FEATURED ARTICLES */
+
+AI & GenAI:
+- Building Autonomous Agents with LangChain and MCP: https://baquir.is-a.dev/blogs/building-autonomous-agents-with-langchain-and-mcp
+- The Rise of Multi-Agent Systems in Enterprise: https://baquir.is-a.dev/blogs/the-rise-of-multi-agent-systems-in-enterprise
+- Vector Databases and RAG Architecture Deep Dive: https://baquir.is-a.dev/blogs/vector-databases-and-rag-architecture-deep-dive
+- Prompt Engineering Strategies for Deterministic Outputs: https://baquir.is-a.dev/blogs/prompt-engineering-strategies-for-deterministic-outputs
+- AI Agent Security Best Practices: https://baquir.is-a.dev/blogs/ai-agent-security-best-practices
+
+Backend Engineering:
+- Building High Performance APIs with FastAPI: https://baquir.is-a.dev/blogs/building-high-performance-apis-with-fastapi
+- Database Sharding and Partitioning Strategies: https://baquir.is-a.dev/blogs/database-sharding-and-partitioning-strategies
+- Microservices vs Monoliths: https://baquir.is-a.dev/blogs/microservices-vs-monoliths-making-the-right-choice
+- Event Sourcing and CQRS Explained: https://baquir.is-a.dev/blogs/event-sourcing-and-cqrs-explained
+
+Shopify & E-Commerce:
+- Headless Shopify with Next.js Commerce: https://baquir.is-a.dev/blogs/headless-shopify-with-nextjs-commerce
+- Building Shopify Checkout UI Extensions with React: https://baquir.is-a.dev/blogs/building-shopify-checkout-ui-extensions-with-react
+
+DevOps & Cloud:
+- Kubernetes Deployment Strategies: https://baquir.is-a.dev/blogs/kubernetes-deployment-strategies-blue-green-vs-canary
+- Infrastructure as Code with Terraform on AWS: https://baquir.is-a.dev/blogs/infrastructure-as-code-with-terraform-aws
+
+/* AVAILABILITY */
+
+Available for 100% remote work globally across all timezones:
+North America: USA, Canada, Mexico
+Europe: UK, Germany, France, Netherlands, Sweden, Switzerland, Spain, Italy, Denmark, Norway, Finland, Belgium, Austria, Poland, Portugal, Ireland, Czech Republic, Greece, Hungary, Romania, Turkey, Estonia, Latvia, Lithuania, Croatia, Serbia, Bulgaria, Ukraine
+Asia Pacific: Australia, New Zealand, Singapore, Japan, South Korea, Malaysia, Indonesia, Thailand, Vietnam, Philippines, Hong Kong, Taiwan, India
+Middle East: UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman, Israel, Jordan
+Africa: South Africa, Nigeria, Kenya, Egypt, Ghana, Morocco, Rwanda
+South America: Brazil, Argentina, Chile, Colombia, Peru, Uruguay
